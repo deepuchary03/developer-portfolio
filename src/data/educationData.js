@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
+        institution: 'Geethanjali High School',
         course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        startYear: '2017',
+        endYear: '2020'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Sreenivasa Padmavathi Jr College',
+        course: 'Intermediate',
+        startYear: '2020',
+        endYear: '2022'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
+        institution: 'Teegala Krishna Reddy Engg College',
+        course: 'B-Tech',
+        startYear: '2012',
         endYear: 'Present'
     },
 ]
